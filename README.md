@@ -1,1 +1,2 @@
-# Bot
+# Bot for ...
+###Use at own discretion and not recommended
